@@ -135,6 +135,10 @@ h1,h2,h3,h4,h5,h6{
     color: black;
     margin: 10px 0;
     display: inline-block;
+    transition: 0.3s;
+}
+.btn: hover{
+    transform: scale(1.2);
 }
 .btn{
     font-family: 'Signika Negative', sans-serif;
