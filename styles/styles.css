@@ -110,7 +110,7 @@ h1,h2,h3,h4,h5,h6{
     font-size: 25px;
     margin: 5px 0 10px 0;
     text-transform: uppercase;
-    letter-spacing: 5px;
+    letter-spacing: 8px;
 }
 
 .infoContent .block h3 a {
@@ -139,6 +139,8 @@ h1,h2,h3,h4,h5,h6{
 }
 .btn: hover{
     transform: scale(1.2);
+    letter-spacing: 3px;
+    color: white;
 }
 .btn{
     font-family: 'Signika Negative', sans-serif;
